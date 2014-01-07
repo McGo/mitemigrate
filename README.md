@@ -48,12 +48,12 @@ like this example with invalid data, just to show how it should look like:
 ```JSON
     {
         "source": {
-            "host": "URL TO YOUR SOURCE ACCOUNT",
-            "apikey": "CORRESPONDING API KEY"
+            "host": "source.mite.yo.lk",
+            "apikey": "54cd71263d127ab"
         },
         "destination": {
-            "host": "URL TO YOUR DESTINATION ACCOUNT",
-            "apikey": "CORRESPONDING API KEY"
+            "host": "destination.mite.yo.lk",
+            "apikey": "3d127ab54cd7126"
         }
     }
 ```
