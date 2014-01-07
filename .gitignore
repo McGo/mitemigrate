@@ -16,3 +16,6 @@ node_modules
 
 # project file
 *.komodoproject
+
+# the mite config file that holds your credentials
+mite-config.json
