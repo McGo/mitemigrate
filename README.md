@@ -8,8 +8,11 @@ migrate mite data from one account to another.
 
 1. clone this repository
 2. enter the working directory and type
+```bash
   npm install
+```
 3. create a file called mite-config.json that has the following structure:
+```JSON
   {
     "source": {
       "host": "URL TO YOUR SOURCE ACCOUNT",
@@ -20,6 +23,7 @@ migrate mite data from one account to another.
       "apikey": "CORRESPONDING API KEY"
     }
   }
+```
   
 
 
